@@ -10,6 +10,8 @@ import org.springframework.cloud.client.discovery.EnableDiscoveryClient;
 
 public class ApiGetwayApplication {
 
+
+    
     public static void main(String[] args) {
         SpringApplication.run(ApiGetwayApplication.class, args);
     }
